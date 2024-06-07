@@ -1,4 +1,0 @@
-obj\Debug\net8.0/InventoryServiceProto.cs \
-obj\Debug\net8.0/InventoryServiceProtoGrpc.cs: C:/Users/Andalus/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/timestamp.proto\
- C:/Users/Andalus/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/empty.proto\
- ../Protos/InventoryServiceProto.proto
