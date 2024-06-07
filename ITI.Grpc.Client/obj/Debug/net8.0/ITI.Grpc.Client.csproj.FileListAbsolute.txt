@@ -1,0 +1,50 @@
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\appsettings.Development.json
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\appsettings.json
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\ITI.Grpc.Client.exe
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\ITI.Grpc.Client.deps.json
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\ITI.Grpc.Client.runtimeconfig.json
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\ITI.Grpc.Client.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\ITI.Grpc.Client.pdb
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Google.Protobuf.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.csproj.AssemblyReference.cache
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.AssemblyInfoInputs.cache
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.AssemblyInfo.cs
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.csproj.CoreCompileInputs.cache
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\staticwebassets\msbuild.ITI.Grpc.Client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\staticwebassets\msbuild.build.ITI.Grpc.Client.props
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ITI.Grpc.Client.props
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ITI.Grpc.Client.props
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\scopedcss\bundle\ITI.Grpc.Client.styles.css
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.D0D6E2A7.Up2Date
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\refint\ITI.Grpc.Client.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.pdb
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.genruntimeconfig.cache
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ref\ITI.Grpc.Client.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.sourcelink.json
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.csproj.AssemblyReference.cache
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.dll
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\refint\ITI.Grpc.Client.dll
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.pdb
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.AssemblyInfoInputs.cache
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.AssemblyInfo.cs
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.csproj.CoreCompileInputs.cache
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.MvcApplicationPartsAssemblyInfo.cs
+D:\Tutorials\ITI Courses\49- GRPC\Lab\Lab\ITI.Grpc.Client\obj\Debug\net8.0\ITI.Grpc.Client.MvcApplicationPartsAssemblyInfo.cache

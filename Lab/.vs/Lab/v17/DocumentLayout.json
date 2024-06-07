@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.server\\services\\inventroyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\services\\inventroyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\protos\\inventoryserviceproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:protos\\inventoryserviceproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.server\\services\\iapikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\services\\iapikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.client\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.server\\services\\apikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\services\\apikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.client\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.client\\services\\iapikeyproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\services\\iapikeyproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.client\\services\\apikeyproviderserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\services\\apikeyproviderserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\tutorials\\iti courses\\49- grpc\\lab\\lab\\iti.grpc.client\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApiKeyAuthenticationService.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Server\\Services\\IApiKeyAuthenticationService.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Server\\Services\\IApiKeyAuthenticationService.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Server\\Services\\IApiKeyAuthenticationService.cs",
+              "RelativeToolTip": "ITI.Grpc.Server\\Services\\IApiKeyAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:01:45.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiKeyAuthenticationService.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Server\\Services\\ApiKeyAuthenticationService.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Server\\Services\\ApiKeyAuthenticationService.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Server\\Services\\ApiKeyAuthenticationService.cs",
+              "RelativeToolTip": "ITI.Grpc.Server\\Services\\ApiKeyAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:01:40.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventroyService.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Server\\Services\\InventroyService.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Server\\Services\\InventroyService.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Server\\Services\\InventroyService.cs",
+              "RelativeToolTip": "ITI.Grpc.Server\\Services\\InventroyService.cs",
+              "ViewState": "AQIAAAcAAACAAQAAAAAqwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:27:16.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryServiceProto.proto",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\Protos\\InventoryServiceProto.proto",
+              "RelativeDocumentMoniker": "Protos\\InventoryServiceProto.proto",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\Protos\\InventoryServiceProto.proto",
+              "RelativeToolTip": "Protos\\InventoryServiceProto.proto",
+              "ViewState": "AQIAAAwAAADAMTMzMzMrwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-06-07T21:01:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Client\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "ITI.Grpc.Client\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAACcAAADAzMzMzMw6wCwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:48:13.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Client\\WeatherForecast.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\WeatherForecast.cs",
+              "RelativeToolTip": "ITI.Grpc.Client\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:01:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApiKeyProviderService.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Services\\IApiKeyProviderService.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Client\\Services\\IApiKeyProviderService.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Services\\IApiKeyProviderService.cs",
+              "RelativeToolTip": "ITI.Grpc.Client\\Services\\IApiKeyProviderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:01:28.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Client\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ITI.Grpc.Client\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABIAAACAzMzMzMwmwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:56:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiKeyProviderSerivce.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Services\\ApiKeyProviderSerivce.cs",
+              "RelativeDocumentMoniker": "ITI.Grpc.Client\\Services\\ApiKeyProviderSerivce.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\49- GRPC\\Lab\\Lab\\ITI.Grpc.Client\\Services\\ApiKeyProviderSerivce.cs",
+              "RelativeToolTip": "ITI.Grpc.Client\\Services\\ApiKeyProviderSerivce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:26:58.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
